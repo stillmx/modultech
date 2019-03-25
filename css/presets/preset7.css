@@ -1,0 +1,69 @@
+a,
+#home-slider .caption h1 span,/* parte del texto del slider*/
+#footer .footer-bottom, /* texto al final del footer*/
+/*#single-portfolio .close-folio-item:hover,
+.single-table.featured .btn.btn-primary,*/
+.contact-info ul li a:hover,
+#footer .footer-bottom a  {
+  color: rgb(57, 116, 250);
+}
+
+/* Botón de enviar contacto */
+.btn.btn-primary:hover,
+.btn-submit:hover {
+  background-color: rgba(0, 0, 0, 0.65);
+}/* Botón de enviar contacto */
+
+/*a:hover, a:focus {
+	color: #1afd07;
+}*/
+
+/* Navegador principal - iconos de servicios - barras de progreso - botón de enviar
+ botón de comenzar ya - botones de control slider - */
+.main-nav{
+    background: rgba(123,191,250,1);
+background: -moz-linear-gradient(left, rgba(123,191,250,1) 0%, rgba(76,155,230,1) 9%, rgba(8,131,247,1) 21%, rgba(2,88,179,1) 54%, rgba(1,59,117,1) 100%);
+background: -webkit-gradient(left top, right top, color-stop(0%, rgba(123,191,250,1)), color-stop(9%, rgba(76,155,230,1)), color-stop(21%, rgba(8,131,247,1)), color-stop(54%, rgba(2,88,179,1)), color-stop(100%, rgba(1,59,117,1)));
+background: -webkit-linear-gradient(left, rgba(123,191,250,1) 0%, rgba(76,155,230,1) 9%, rgba(8,131,247,1) 21%, rgba(2,88,179,1) 54%, rgba(1,59,117,1) 100%);
+background: -o-linear-gradient(left, rgba(123,191,250,1) 0%, rgba(76,155,230,1) 9%, rgba(8,131,247,1) 21%, rgba(2,88,179,1) 54%, rgba(1,59,117,1) 100%);
+background: -ms-linear-gradient(left, rgba(123,191,250,1) 0%, rgba(76,155,230,1) 9%, rgba(8,131,247,1) 21%, rgba(2,88,179,1) 54%, rgba(1,59,117,1) 100%);
+background: linear-gradient(to right, rgba(123,191,250,1) 0%, rgba(76,155,230,1) 9%, rgba(8,131,247,1) 21%, rgba(2,88,179,1) 54%, rgba(1,59,117,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7bbffa', endColorstr='#013b75', GradientType=1 );
+
+}
+/*.service-icon,*/
+.progress-bar.progress-bar-primary,
+/*.single-table.featured,
+.btn.btn-primary,
+.entry-header .date:after,
+.btn-loadmore:hover,
+.folio-overview a:hover*/
+.btn-submit,
+#footer,
+.caption .btn-start:hover,
+.left-control:hover,
+.right-control:hover {
+  background-color:rgb(57, 116, 250);
+}
+
+
+
+
+
+/*.twitter-left-control:hover,
+.twitter-right-control:hover,
+.btn-loadmore:hover  {
+	border: 1px solid #00eafd;
+}*/
+/* hover de botones del slider */
+.caption .btn-start:hover,
+.left-control:hover,
+.right-control:hover {
+	border-color: #000000;
+}/* hover de botones del slider */
+
+/*
+.twitter-icon .fa-twitter:after {
+	border-color: #f7ca18 transparent transparent;
+}
+*/
